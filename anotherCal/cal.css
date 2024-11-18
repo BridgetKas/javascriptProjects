@@ -50,3 +50,7 @@ form .display input {
 .equal {
     width: 145px;
 }
+
+ .operator {
+    color: greenyellow;
+}
